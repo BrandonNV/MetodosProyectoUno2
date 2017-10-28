@@ -1,0 +1,40 @@
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csprojResolveAssemblyReference.cache
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form1.resources
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Properties.Resources.resources
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csproj.GenerateResource.Cache
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csproj.CoreCompileInputs.cache
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe.config
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.pdb
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.exe
+c:\users\brandon navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.pdb
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form2.resources
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form3.resources
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe.config
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.exe
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.pdb
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.pdb
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csprojResolveAssemblyReference.cache
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form1.resources
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form2.resources
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form3.resources
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Properties.Resources.resources
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csproj.GenerateResource.Cache
+C:\Users\José Ma\Desktop\ITC\ITC_2017\Ago_Dic\Metodos\proyectoMetodos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form4.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe.config
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.pdb
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csprojResolveAssemblyReference.cache
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form1.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form2.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form3.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form4.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form5.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Properties.Resources.resources
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csproj.GenerateResource.Cache
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.csproj.CoreCompileInputs.cache
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.exe
+C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.pdb
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form4.resources
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form5.resources

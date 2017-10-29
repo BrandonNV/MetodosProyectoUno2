@@ -66,23 +66,11 @@ namespace MetodosProyectoUno
                     aleatorios[a] = (convert % mo) / mo;
                     dplus[a] = ((a + 1) / n) - aleatorios[a];
                     dminus[a] = aleatorios[a] - (a / n);
-                    if (a == 0)
-                    {
-                        maxp = dplus[a];
-                        maxm = dminus[a];
-
-                    }
-                    else
-                    {
-                        if (dplus[a] > maxp) { maxp = dplus[a]; }
-                        if (dminus[a] > maxm) { maxm = dminus[a]; }
-
-                    }
                     //FIN KOLMOGROV
                     dataGridView1.Rows.Add(rows);
                     s = (mu * s + i) % mo;
                 }
-
+         
                 if (mcd == 1 && mo % 4 == 0 && 4 % (mu - 1) == 0)
                 {
                     MessageBox.Show("El generador tiene periodo completo");
@@ -90,6 +78,45 @@ namespace MetodosProyectoUno
                 else
                 {
                     MessageBox.Show("El generador no tiene periodo completo");
+                }
+
+                double t;
+                for (int p = 0; p <= n - 2; p++)
+                {
+                    for (int x = 0; x <= n - 2; x++)
+                    {
+                        if (aleatorios[x] > aleatorios[x + 1])
+                        {
+                            t = aleatorios[x + 1];
+                            aleatorios[x + 1] = aleatorios[x];
+                            aleatorios[x] = t;
+                        }
+                    }
+                }
+
+                Console.WriteLine("Sorted Elements");
+
+                for (int b = 0; b < n; b++)
+                {
+                    Console.WriteLine(aleatorios[b]);
+                    dplus[b] = ((b + 1) / n) - aleatorios[b];
+                    dminus[b] = aleatorios[b] - (b / n);
+
+                    if (b == 0)
+                    {
+                        maxp = dplus[b];
+                        maxm = dminus[b];
+
+                    }
+                    else
+                    {
+                        if (dplus[b] > maxp) { maxp = dplus[b]; }
+                        if (dminus[b] > maxm) { maxm = dminus[b]; }
+
+                    }
+                    //FIN KOLMOGROV
+
+
                 }
                 //KOLMOGROV
                 string sig = listBox2.SelectedItem.ToString();

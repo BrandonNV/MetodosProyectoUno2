@@ -28,7 +28,7 @@ namespace MetodosProyectoUno
             else
             {
                 dataGridView1.Rows.Clear();
-                string[] rows = new string[300];
+                string[] rows = new string[20000];
                 int s = int.Parse(semilla.Text);
                 int n = int.Parse(veces.Text);
 

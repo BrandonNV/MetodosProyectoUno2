@@ -29,7 +29,7 @@ namespace MetodosProyectoUno
             }
             else {
                 dataGridView1.Rows.Clear();
-                string[] rows = new string[300];
+                string[] rows = new string[20000];
                 int s = int.Parse(semilla.Text);
                 int mu = int.Parse(multiplicador.Text);
                 int mo = int.Parse(modulo.Text);
@@ -37,12 +37,12 @@ namespace MetodosProyectoUno
                 double convert = 0;
                 string temp;
                 //KOLMOGROV
-                double[] aleatorios = new double[300];
-                double[] dplus = new double[300];
+                double[] aleatorios = new double[20000];
+                double[] dplus = new double[20000];
                 double max = 0;
                 double maxp = 0;
                 double maxm = 0;
-                double[] dminus = new double[300];
+                double[] dminus = new double[20000];
                 double tabValue = 0;
                 double[,] ktable = KolmogrovTable(n);
 

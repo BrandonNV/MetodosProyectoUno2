@@ -38,3 +38,7 @@ C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosPr
 C:\Users\danji\Desktop\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.pdb
 C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form4.resources
 C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.Form5.resources
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.exe.manifest
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\bin\Debug\MetodosProyectoUno.application
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.exe.manifest
+C:\Users\Brandon Navarro\source\repos\MetodosProyectoUno\MetodosProyectoUno\obj\Debug\MetodosProyectoUno.application
